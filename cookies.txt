@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+amenitiz.io	TRUE	/	FALSE	1999999999	_myapp_session	10Um12qb2xCX12xbEZ%2FHBYKDLrVGRsG6WNc2FMf9JVLevkXvXAWxIvwP6d7S%2FRLmZDI6Ph5Fo9lSExqXBOguC0JNCOkqw8IW9oFq4iDSkpLN3R4hTp%2B0LfyWl0xBUrmAdoln%2B3IZx5w4EbqCuTEUgiS4cJSdnjzUlxu5t98cgXq%2FWza7FZthlcQSRgONV4ulcek%2FFroTcDL98vCAl3JvfKOUbij8zDIdr6jtmVPfpNymRCu81Ntr4jAq05AOO5rAuhMLNBnuQ0jOyFoo7vY%2BiYxh%2BCeMFIEpj6aR2wsdpTgrlAewSgbfCy0xusZn%2FASeIC4w344yioVh7Pd9qhxbaV7sY7s%3D--g122ZK6QVdme12Ao--xgeU%2BonxcgxMbP7XwuDgMw%3D%3D
+the-everest.amenitiz.io	TRUE	/	FALSE	1999999999	SameSite	Lax
+
